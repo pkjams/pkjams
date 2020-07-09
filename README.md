@@ -3,7 +3,7 @@
 -->
 
 * Hey there, I'm Jamsheer
-* Proud Husband, Father to awsome kids
+* Proud Husband, Father of lovely daughter and son
 * Passionate Java deloper with experience in building trading application for leading banks
 
 ![About Me](https://github.com/pkjams/pkjams/blob/master/bio.jpg)
